@@ -351,10 +351,11 @@ main {
     height: 15em;
     width: 15em;
     padding: 1em;
+    background-size: cover;
     border-radius: 50%;
     margin-top: 8px;
     margin-left: 8px;
-    box-shadow: 1px 0px;
+    box-shadow: 1px 1px 10px;
 }
 
 .art-box h2{
@@ -368,4 +369,40 @@ main {
     font-weight: 500;
     color: #a7a7a7;
 
+}
+
+.art-box .img2{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb654603f76991dc1275e67d39");
+    height: 15em;
+    width: 15em;
+    background-size: cover;
+    padding: 1em;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img3{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb142f0f2b9f1cbce495d36882");
+    height: 15em;
+    width: 15em;
+    background-size: cover;
+    padding: 1em;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img4{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    height: 15em;
+    width: 15em;
+    background-size: cover;
+    padding: 1em;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 1px 1px 10px;
 }
