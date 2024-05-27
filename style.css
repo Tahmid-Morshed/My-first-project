@@ -321,6 +321,7 @@ main {
     color: #ffffff;
     font-size: 1.5rem;
     font-weight:700;
+    padding-left: 8px;
 }
 
 .info a:hover{text-decoration: underline;}
@@ -329,6 +330,7 @@ main {
     color: #a7a7a7;
     font-size: 0.875rem;
     font-weight: 500;
+    padding-right: 8px;
 }
 
 .pop-art{
@@ -355,19 +357,21 @@ main {
     border-radius: 50%;
     margin-top: 8px;
     margin-left: 8px;
-    box-shadow: 1px 1px 10px;
+    box-shadow: 5px 5px 20px;
 }
 
 .art-box h2{
     font-size: 1rem;
     font-weight: 700;
     color: #ffffff;
+    padding-left: 8px;
 
 }
 .art-box h3{
     font-size: 0.875rem;
     font-weight: 500;
     color: #a7a7a7;
+    padding-left: 8px ;
 
 }
 
@@ -380,7 +384,7 @@ main {
     border-radius: 50%;
     margin-top: 8px;
     margin-left: 8px;
-    box-shadow: 1px 1px 10px;
+    box-shadow: 5px 5px 20px;
 }
 
 .art-box .img3{
@@ -392,7 +396,7 @@ main {
     border-radius: 50%;
     margin-top: 8px;
     margin-left: 8px;
-    box-shadow: 1px 1px 10px;
+    box-shadow: 5px 5px 20px;
 }
 
 .art-box .img4{
@@ -402,6 +406,50 @@ main {
     background-size: cover;
     padding: 1em;
     border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 5px 5px 20px;
+}
+
+.art-box .img5{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    height: 15em;
+    width: 15em;
+    background-size: cover;
+    padding: 1em;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img6{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    height: 15em;
+    width: 15em;
+    background-size: cover;
+    padding: 1em;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img7{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    height: 15em;
+    width: 15em;
+    background-size: cover;
+    padding: 1em;
+    margin-top: 8px;
+    margin-left: 8px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img8{
+    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    height: 15em;
+    width: 15em;
+    padding: 1em;
+    background-size: cover;
     margin-top: 8px;
     margin-left: 8px;
     box-shadow: 1px 1px 10px;
