@@ -305,7 +305,7 @@ body{
 main {
     padding-top:1em ;
     padding: 0em 1em ;
-    background-color: #252525;
+    background-color: #121212;
     margin-left: 23em;
 }
 
@@ -340,7 +340,7 @@ main {
 .pop-art .art-box{
     height:20em;
     width :25%;
-    background-color: #252525;
+    background-color: #121212;
 }
 .art-box{
     display: flex;
@@ -417,8 +417,8 @@ main {
     width: 15em;
     background-size: cover;
     padding: 1em;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin: 8px;
+    border-radius: 10px;
     box-shadow: 1px 1px 10px;
 }
 
@@ -428,8 +428,8 @@ main {
     width: 15em;
     background-size: cover;
     padding: 1em;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin: 8px;
+    border-radius: 10px;
     box-shadow: 1px 1px 10px;
 }
 
@@ -439,8 +439,8 @@ main {
     width: 15em;
     background-size: cover;
     padding: 1em;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin: 8px;
+    border-radius: 10px;
     box-shadow: 1px 1px 10px;
 }
 
@@ -450,7 +450,121 @@ main {
     width: 15em;
     padding: 1em;
     background-size: cover;
-    margin-top: 8px;
-    margin-left: 8px;
+    margin: 8px;
+    border-radius: 10px;
     box-shadow: 1px 1px 10px;
+}
+
+.art-box:hover{
+    background-color: #222222;
+}
+
+.top-g{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.art-box .img9{
+    background-image: url("/My-first-project/image/item-10.jpg");
+    height: 15em;
+    width: 15em;
+    padding: 1em;
+    background-size: cover;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img10{
+    background-image: url("/My-first-project/image/item-6.jpg");
+    height: 15em;
+    width: 15em;
+    padding: 1em;
+    background-size: cover;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img11{
+    background-image: url("/My-first-project/image/item-7.jpg");
+    height: 15em;
+    width: 15em;
+    padding: 1em;
+    background-size: cover;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+}
+
+.art-box .img12{
+    background-image: url("/My-first-project/image/item-8.jpg");
+    height: 15em;
+    width: 15em;
+    padding: 1em;
+    background-size: cover;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px;
+}
+
+.about{
+    margin-left: 23em;
+    padding-top: 1em;
+    padding-left: 0.5em;
+    height: 22em;
+    background-color:#121212;
+    padding: 40px 32px;
+    display: flex;
+   justify-content: space-between;
+}
+
+.about-info{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.about-info p {
+    font-size: 1rem;
+    font: weight 700px;;
+    padding-bottom: 4px;
+}
+
+.about-info a {
+    color: #a7a7a7;
+    font-size: 0.875rem;
+    padding: 4px 0px;
+}
+
+.about-info a:hover{text-decoration: underline;}
+
+.about .button{
+    display: flex;
+    flex-direction: row;
+    width: 35em;
+    margin-left: 20em;
+}
+
+.about .buttonn button {
+    height: 3.5em;
+    width: 3.5em;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    background-color: #b3b3b317;
+    color: white;
+    padding: 4px;
+    border-radius: 50%;
+
+}
+
+.copy{
+    background-color: #121212;
+    color: gray;
+    font-size: 0.875rem;
+    paint-order: 1em;
+    border-top: 1px solid gray ;
+    margin-left:26em;
 }
