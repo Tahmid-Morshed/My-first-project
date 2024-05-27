@@ -412,7 +412,7 @@ main {
 }
 
 .art-box .img5{
-    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    background-image: url("/My-first-project/image/item-5.jpg");
     height: 15em;
     width: 15em;
     background-size: cover;
@@ -423,7 +423,7 @@ main {
 }
 
 .art-box .img6{
-    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    background-image: url("/My-first-project/image/item-2.jpg");
     height: 15em;
     width: 15em;
     background-size: cover;
@@ -434,7 +434,7 @@ main {
 }
 
 .art-box .img7{
-    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    background-image: url("/My-first-project/image/item-3.jpg");
     height: 15em;
     width: 15em;
     background-size: cover;
@@ -445,7 +445,7 @@ main {
 }
 
 .art-box .img8{
-    background-image: url("https://i.scdn.co/image/ab6761610000e5eb7e509af8bbc3833a2b116f6f");
+    background-image: url("/My-first-project/image/item-4.jpg");
     height: 15em;
     width: 15em;
     padding: 1em;
